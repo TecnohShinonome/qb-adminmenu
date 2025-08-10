@@ -279,3 +279,4 @@ if GetConvar('qb_locale', 'en') == 'ja' then
         fallbackLang = Lang,
     })
 end
+
